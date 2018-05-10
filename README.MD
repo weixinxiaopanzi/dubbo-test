@@ -1,4 +1,4 @@
-&lt;pre&gt;
+<pre>
 springboot + dubbo做的小框架
 
 domaim : 实体类
@@ -119,4 +119,4 @@ pom中依赖和provider是一样的;
 	private UserService userService;
 
 至此,xml配置完成!
-&lt;/pre&gt;
+</pre>
