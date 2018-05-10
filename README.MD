@@ -75,7 +75,7 @@ pom文件:
 	&lt;version&gt;4.0.0&lt;/version&gt;
 &lt;/dependency&gt;
 
-此时,需要要springboot启动类中加入:
+此时,需要在springboot启动类中加入:
 @ImportResource(locations = {"classpath:/dubbo/provider.xml"})
 
 而这个provider.xml配置如下:
